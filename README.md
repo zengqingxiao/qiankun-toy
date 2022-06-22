@@ -1,5 +1,10 @@
 # micro_web_test
 
+### 介绍功能
+微前端库目录：qiankun-toy/main/micro
+![功能图](./微前端框架.png)
+
+
 #### 启动
 ```shell script
 # 根目录下
